@@ -1,0 +1,11 @@
+C:\Users\Administrator\source\repos\bacchanal\bacchanal_cli\obj\Debug\netcoreapp3.0\bacchanal_cli.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\bacchanal\bacchanal_cli\obj\Debug\netcoreapp3.0\bacchanal_cli.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\bacchanal\bacchanal_cli\obj\Debug\netcoreapp3.0\bacchanal_cli.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\bacchanal\bacchanal_cli\bin\Debug\netcoreapp3.0\bacchanal_cli.exe
+C:\Users\Administrator\source\repos\bacchanal\bacchanal_cli\bin\Debug\netcoreapp3.0\bacchanal_cli.deps.json
+C:\Users\Administrator\source\repos\bacchanal\bacchanal_cli\bin\Debug\netcoreapp3.0\bacchanal_cli.runtimeconfig.json
+C:\Users\Administrator\source\repos\bacchanal\bacchanal_cli\bin\Debug\netcoreapp3.0\bacchanal_cli.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\bacchanal\bacchanal_cli\bin\Debug\netcoreapp3.0\bacchanal_cli.dll
+C:\Users\Administrator\source\repos\bacchanal\bacchanal_cli\bin\Debug\netcoreapp3.0\bacchanal_cli.pdb
+C:\Users\Administrator\source\repos\bacchanal\bacchanal_cli\obj\Debug\netcoreapp3.0\bacchanal_cli.dll
+C:\Users\Administrator\source\repos\bacchanal\bacchanal_cli\obj\Debug\netcoreapp3.0\bacchanal_cli.pdb
